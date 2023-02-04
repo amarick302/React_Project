@@ -1,0 +1,31 @@
+img{
+    width: 250px;
+    height: 200px;
+    object-fit: contain;
+}
+.product-row{
+    margin-top: 9%;
+    display: flex;
+    align-items: center;
+}
+.image-col{
+    margin-left: 9%;
+}
+.product-name{
+    font-weight: bold;
+    font-size: 20px !important;
+}
+.rounded-pill{
+    width: 11rem;
+    height: 3rem;
+}
+/* .category{
+        font-weight: bold !important;
+} */
+#text-field{
+    height: 2rem !important;
+}
+.btn{
+    width: 8rem !important;
+    height: 31px;
+}

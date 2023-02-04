@@ -1,0 +1,18 @@
+#name,#contact,#street,#state,#city,#landmark,#zipcode{
+    height: 3rem !important;
+}
+.inputField{
+    margin-bottom: 3% !important;
+}
+.div-textField{
+    width: 20% !important;
+}
+h1{
+    font-size: 18px !important;
+}
+.dropdown{
+    width:35% !important;
+}
+.save-address{
+    width: 100% !important;
+}

@@ -1,0 +1,9 @@
+.body-order{
+    /* background-color: aquamarine; */
+    width: 60%;
+}
+.container{
+    /* background-color: aqua; */
+    display: flex !important;
+    justify-content: center !important;
+}

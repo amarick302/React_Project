@@ -1,0 +1,26 @@
+* {
+    font-size: small !important;
+}
+
+input {
+    padding: 2px !important
+}
+
+button {
+    padding: 4px !important;
+}
+
+#navbar-div {
+    background-color: rgb(61, 61, 230) !important;
+}
+a,span{
+    color: white !important;
+    /* opacity: 1 !important; */
+}
+a {
+    text-decoration: none;
+}
+
+/* #searchBar{
+    width: 60% !important;
+} */
